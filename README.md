@@ -2,7 +2,7 @@
 
 - 💡 Formado em Publicidade e Propaganda
 - 🎓 Pós-graduado em Comunicação e Marketing
-- 🤓 Interesse por tecnologia, design e dados
+- 🤓 Interessado por tecnologia, design e dados
 - 👨‍💻 Em transição de carreira para TI
 - 📚 Atualmente estudando HTML, CSS e JavaScript
 
