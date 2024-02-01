@@ -1,9 +1,9 @@
-## Bem-vindo! Eu sou o Diego Pimentel 😉
+## Bem-vindo ao meu perfil! 😉
 
-- 💡 Formado em Publicidade e Propaganda
+- 💡 Sou formado em Publicidade e Propaganda
 - 🎓 Pós-graduado em Comunicação e Marketing
-- 🤓 Interessado por tecnologia, design e dados
-- 👨‍💻 Em transição de carreira
+- 🤓 Tenho interesse por tecnologia, design e dados
+- 👨‍💻 Estou em transição de carreira
 - 📚 Estudando HTML, CSS e JavaScript
 
 ##
