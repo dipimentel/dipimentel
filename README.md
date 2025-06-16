@@ -3,7 +3,6 @@
 - 💡 Sou formado em Publicidade e Propaganda
 - 🎓 Pós-graduado em Comunicação e Marketing
 - 🤓 Tenho interesse por tecnologia, design e dados
-- 👨‍💻 Estou em transição de carreira
 - 📚 Estudando HTML, CSS e JavaScript
 
 ##
